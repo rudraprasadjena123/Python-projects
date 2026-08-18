@@ -21,3 +21,4 @@ Git & GitHub
 # Goal
 The goal of this repository is to continuously improve my Python development skills by building real-world projects and experimenting with different technologies.
 More projects and improvements will be added regularly.
+![preview img](/preview.png)
